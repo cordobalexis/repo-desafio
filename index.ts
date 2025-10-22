@@ -28,3 +28,5 @@ class Edificio {
 this.piso = piso;
     }
 }
+
+console.log("un cambio"); 
